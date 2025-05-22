@@ -90,13 +90,15 @@ The quality and originality of the final product matter more than the tools used
 
 ### 8. “Repo wiping is unfair and hiding stolen content” — Misunderstood mechanics
 
-Wiping or cleaning up a public repo can be done for many valid reasons: removing outdated files, cleaning up history, or resetting the project to a cleaner state.
+**The repo wiping was not done by the owner of the project.**
 
-The repo wipe isn’t necessarily “hiding stolen content” but could be standard maintenance.
+Wiping or cleaning up a public repo can be done by others (e.g., collaborators, external actors), sometimes without the owner's consent or knowledge.
 
-The accusation ignores the rights of project owners to manage their own repositories as they see fit.
+The accusation that the project owner is hiding stolen content via wiping is therefore inaccurate.
 
-If there were ongoing IP violations, a repo wipe wouldn’t fix them — the correct response is dialogue and resolution, which apparently did happen.
+If there were ongoing IP violations, wiping wouldn’t resolve them — the correct response is dialogue and resolution, which apparently did happen.
+
+The rights to manage a repository can vary depending on access and platform policies.
 
 ---
 
@@ -133,6 +135,6 @@ The whole narrative framing the project as a blatant thief or scoundrel abusing 
 - Negotiated community disputes with offers to reconcile.
 - Used common naming conventions without clear intent to confuse.
 - Leveraged modern tools (like AI) to assist creativity, which is neither inherently bad nor dishonest.
-- Managed its repository within its rights and responsibilities.
+- Managed its repository within its rights and responsibilities where applicable.
 
 If anything, this situation reflects the messy, human side of mod development — miscommunication, growing pains, and passionate debates — not criminal theft or unethical behavior.
